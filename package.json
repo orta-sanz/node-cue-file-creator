@@ -1,0 +1,13 @@
+{
+  "name": "node-cue-file-generator",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "Alejandro Orta",
+  "license": "ISC",
+  "devDependencies": {
+    "debug": "^3.1.0",
+    "fs-promise": "^2.0.3",
+    "minimist": "^1.2.0"
+  },
+  "dependencies": {}
+}
